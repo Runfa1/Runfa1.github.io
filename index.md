@@ -7,6 +7,6 @@
   <body>
     <h1 align=""center">尊龙!</h1>
     <hr>
-    <center><img src="86d6277f9e2f07083a51e208e024b899a901f266.jpeg"/></center>
+    <center><img src="/test.jpeg"width="100%"></center>
     </body>
     </html>                                                               
